@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Dataset (too large)
+Dataa/
+
+# Saved plots
+*.png
+
+# Environment
+venv/
+env/ 
