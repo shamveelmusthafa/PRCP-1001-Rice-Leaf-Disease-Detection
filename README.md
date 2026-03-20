@@ -218,8 +218,8 @@ Upload a rice leaf image and the model will predict the disease class with a con
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/shamveelmusthafa/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/shamveelmusthafa/PRCP-1001-Rice-Leaf-Disease-Detection
+cd PRCP-1001-Rice-Leaf-Disease-Detection
 ```
 
 2. **Install dependencies:**
